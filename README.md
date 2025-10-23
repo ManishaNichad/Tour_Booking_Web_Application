@@ -1,15 +1,30 @@
-Tours & Travels Management System
-A platform to streamline tour management for administrators and provide customers with an intuitive interface to explore and book travel plans. The system ensures secure and efficient data handling for destinations, lodging, transport, and bookings.
+🧳 Tours & Travels Management System
 
-Table of Contents
-Project UI
-Features
-User Module
-Functional Features
-Technologies Used
-Dependencies Used
-Installation
-Backend Installation with IntelliJ IDEA
-Frontend Installation With VS Code
-Swagger Documentation
-Postman APIs
+A full-stack Tours & Travels Management System that streamlines travel planning and management.
+This platform allows administrators to manage tours, destinations, and bookings, while customers can explore, filter, and book tours effortlessly.
+
+📖 Table of Contents
+
+✨ Project Overview
+
+🎨 Project UI
+
+🧩 Features
+
+👥 User Module
+
+⚙️ Functional Features
+
+💻 Technologies Used
+
+🧱 Dependencies Used
+
+⚙️ Installation Guide
+
+Backend Setup (IntelliJ IDEA)
+
+Frontend Setup (VS Code)
+
+📜 API Documentation
+
+📬 Contact
